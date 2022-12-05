@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AmishaAgrawal20
-- 👀 I’m interested in analying the data.
+- 👀 I’m interested in analyzing the data.
 - 🌱 I’m currently learning Tableau and some python libraries such as PyTorch and Keras.
 - 💞️ I’m looking to collaborate on projects related to data analyst.
 
